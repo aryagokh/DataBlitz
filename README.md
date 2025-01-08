@@ -53,4 +53,4 @@ My Notebooks : <a href="https://www.kaggle.com/code/bharthee/0-71557-lb-datablit
 
 
 <b>Feel free to connect if you'd like to discuss this project or exchange ideas!</b><br>
-<p align="center"><b><a href="www.linkedin.com/in/gokhale-arya">LinkedIn</a> | <a href="https://www.kaggle.com/aryagokh">Kaggle</a> | <a href="https://github.com/aryagokh/">GitHub</a></b></p>
+<p align="center"><b><a href="https://www.linkedin.com/in/gokhale-arya">LinkedIn</a> | <a href="https://www.kaggle.com/aryagokh">Kaggle</a> | <a href="https://github.com/aryagokh/">GitHub</a></b></p>
